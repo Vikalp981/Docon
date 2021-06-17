@@ -5,6 +5,7 @@ This web application provides following utilities :<br>
 For doctors :<br>
 	1. Reports <br>
 	2. Diagnostics <br>
+        3. Contact us <br>
 <br>
 For patients :<br>
 	1. Book appointments <br>
